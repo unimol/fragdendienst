@@ -1,6 +1,6 @@
 # Auskunftsgenerator
 
-See http://netzwerkrecherche.github.io/fragdendienst/index.html for the result.
+See https://unimol.github.io/fragdiedatensammler/ for the result.
 
 
 ## License
