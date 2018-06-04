@@ -15,7 +15,7 @@ function generateLetters() {
 	});
 
 	if (receivers.length === 0) {
-		alert('Sie haben kein Amt ausgewählt.');
+		alert('Sie haben keine Datensammelstelle ausgewählt.');
 		return;
 	}
 
