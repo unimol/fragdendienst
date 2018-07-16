@@ -11,7 +11,7 @@ var agencies = {
 		, law: "§ 35 Bundesdatenschutzgesetz (BDSG-neu) ff. Art. 17 DSGVO"
 		, mail: "datenschutz@schufa.de"
 		, www: "https://www.schufa.de/de/datenschutz-dsgvo/"
-		, text: 3
+		, text: 4
 		, desc: "Schufa"
 	}
 
