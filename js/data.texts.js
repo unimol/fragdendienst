@@ -55,10 +55,7 @@ wurden." + crlf + crlf +
 über mich übermittelt wurden." + crlf +
 "Meiner Anfrage liegt ein besonderes Informationsinteresse unter \
 Wahrnehmung meines verfassungsrechtlich verbürgten Grundrechts auf \
-informationelle Selbstbestimmung zugrunde." + crlf + 
-"Ich bin wie Andrea Röpke journalistisch tätig und \
-fürchte daher, dass auch über mich rechtswidrig Daten gesammelt \
-wurden und werden." + crlf  + crlf +
+informationelle Selbstbestimmung zugrunde." + crlf + crlf +
 "Schliesslich bitte ich um eine Eingangsbestätigung dieses Schreibens."
 + crlf + 
 "Bis zu Ihrer Antwort widerspreche ich der Löschung über mich \
