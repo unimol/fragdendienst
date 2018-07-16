@@ -73,7 +73,11 @@ Auftragsdatenverarbeitung)" + crlf +
 "   - den Zweck und die Rechtsgrundlage der Speicherung," + crlf + 
 "   - die Herkunft der Daten und die empfangenden Stellen oder Kategorien \
 von empfangenden Stellen, an die Daten übermittelt werden oder \
-wurden." + crlf + crlf +
+wurden." + crlf + crlf + 
+"Sollten Sie außerdem Scorewerte erfassen, bitte ich um die Nennung meiner \
+tagesaktuellen Scorewerte, sowie um nachvollziehbare und verständliche \
+Information über die für dieses Scoring genutzten Daten, Datenarten, das \
+Zustandekommen der Zahlenwerte und ihre Bedeutung."  + crlf + crlf + 
 "Bitte teilen Sie mir ggfs. auch mit, auf welcher Rechtsgrundlage Daten \
 über mich übermittelt wurden." + crlf +
 "Meiner Anfrage liegt ein besonderes Informationsinteresse unter \
@@ -84,8 +88,7 @@ Art. 13 DSGVO erfüllen und so formuliert sein, dass sie für Jedermann \
 verständlich sind."  + crlf + crlf +
 "Schliesslich bitte ich um eine Eingangsbestätigung dieses Schreibens."
 + crlf + 
-"Bis zu Ihrer Antwort widerspreche ich der Löschung über mich \
-gesammelter Daten." + crlf + crlf + 
+"Die Auskunft ist unentgeltlich." + crlf + crlf + 
 "Ich verzichte auf die Übermittlung meiner Personalausweiskopie, da \
 ich Ihre Antwort postalisch an meine ladungfähige Anschrift erwarte. \
 Sollten Sie mit dieser Verfahrensweise nicht einverstanden sein, teilen \
