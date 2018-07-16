@@ -42,6 +42,21 @@ var agencies = {
 		, mail: "datenschutz.de@crif.com"
 		, www: "http://www.arvato-infoscore.de/verbraucher/selbstauskunft/"
 		, text: 3
-		, desc: "Auskunftei: infoscore"
+		, desc: "Auskunftei: arvato infoscore"
+	},
+	"Crefo": {
+		  title: "Creditreform Boniversum GmbH"
+		, subtitle: "Datenschutzbeauftragte/r"
+		, street: "Hellersbergstraße 11"
+		, zipcode: "41460"
+		, country: "Deutschland"
+		, city: "Neuss"
+		, tel: "02131 / 109 501"
+		, fax: "02131 / 109 557"
+		, law: "§ 35 Bundesdatenschutzgesetz (BDSG-neu) ff. Art. 17 DSGVO"
+		, mail: "selbstauskunft@boniversum.de"
+		, www: "http://www.boniversum.de/"
+		, text: 3
+		, desc: "Auskunftei: Creditreform"
 	}
 };
