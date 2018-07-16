@@ -8,7 +8,7 @@ var agencies = {
 		, city: "Wiesbaden"
 		, tel: "0611 - 92780"
 		, fax: "0611 - 9278109"
-		, law: "§ 19, Abs. 1 Bundesdatenschutzgesetz (BDSG-neu) ff. Art. DSGVO"
+		, law: "§ 35 Bundesdatenschutzgesetz (BDSG-neu) ff. Art. 17 DSGVO"
 		, mail: "datenschutz@schufa.de"
 		, www: "https://www.schufa.de/de/datenschutz-dsgvo/"
 		, text: 3
