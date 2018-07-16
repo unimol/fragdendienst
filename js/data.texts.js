@@ -72,14 +72,13 @@ Auftragsdatenverarbeitung)" + crlf +
 "   - zu meiner Person gespeicherten Daten," + crlf + 
 "   - den Zweck und die Rechtsgrundlage der Speicherung," + crlf + 
 "   - die Herkunft der Daten und die empfangenden Stellen oder Kategorien \
-von empfangenden Stellen, an die Daten übermittelt werden oder \
-wurden." + crlf + crlf + 
+von empfangenden Stellen, an die Daten übermittelt werden oder wurden." + crlf + crlf + 
 "Sollten Sie außerdem Scorewerte erfassen, bitte ich um die Nennung meiner \
 tagesaktuellen Scorewerte, sowie um nachvollziehbare und verständliche \
 Information über die für dieses Scoring genutzten Daten, Datenarten, das \
 Zustandekommen der Zahlenwerte und ihre Bedeutung."  + crlf + crlf + 
 "Bitte teilen Sie mir ggfs. auch mit, auf welcher Rechtsgrundlage Daten \
-über mich übermittelt wurden." + crlf +
+über mich übermittelt wurden." + crlf + crlf + 
 "Meiner Anfrage liegt ein besonderes Informationsinteresse unter \
 Wahrnehmung meines verfassungsrechtlich verbürgten Grundrechts auf \
 informationelle Selbstbestimmung zugrunde." + crlf + crlf +
