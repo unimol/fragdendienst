@@ -12,7 +12,7 @@ var agencies = {
 		, mail: "datenschutz@schufa.de"
 		, www: "https://www.schufa.de/de/datenschutz-dsgvo/"
 		, text: 4
-		, desc: "Schufa"
+		, desc: "Auskunftei: SCHUFA"
 	}
 
 	
