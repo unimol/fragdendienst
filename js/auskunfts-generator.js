@@ -87,7 +87,7 @@ function generateLetter(receiver, cnt) {
 	if (receiver.text === 1 || receiver.text === 2) 
 		attachment = crlf + crlf + crlf + crlf + "Anhang: Personalausweiskopie";
 
-	var txt = 'Betreff: Antrag auf Aktenauskunft' + crlf  + crlf + crlf + body + crlf
+	var txt = 'Betreff: Auskunft über meine über mich gespeicherten Daten' + crlf  + crlf + crlf + body + crlf
 			+ crlf + addr.name + attachment;
 	var lines = doc.splitTextToSize(txt, 155)
 	doc.text(25, 95.46, lines)
