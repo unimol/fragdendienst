@@ -53,7 +53,7 @@ function generateLetter(receiver, cnt) {
 	doc.setFontSize(8);
 	doc.text(25, 27, lines_send_back_to);
 
-	doc.setFontSize(11);
+	doc.setFontSize(9);
 	var now = new Date();
 	var birthdate = "Geboren am " + addr.birthdate + ", in " + addr.birthplace;
 	var sender = [addr.name, addr.street, addr.zipcode + " " + addr.city, birthdate].join(crlf);
