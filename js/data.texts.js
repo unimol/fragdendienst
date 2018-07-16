@@ -79,11 +79,17 @@ wurden." + crlf + crlf +
 "Meiner Anfrage liegt ein besonderes Informationsinteresse unter \
 Wahrnehmung meines verfassungsrechtlich verbürgten Grundrechts auf \
 informationelle Selbstbestimmung zugrunde." + crlf + crlf +
+"Die Informationen müssen die Kriterien gemäß § 32 BDSG-neu ff. \
+Art. 13 DSGVO erfüllen und so formuliert sein, dass sie für Jedermann \
+verständlich sind."  + crlf + crlf +
 "Schliesslich bitte ich um eine Eingangsbestätigung dieses Schreibens."
 + crlf + 
 "Bis zu Ihrer Antwort widerspreche ich der Löschung über mich \
 gesammelter Daten." + crlf + crlf + 
-"Mit diesem Brief übersende ich Ihnen eine Personalausweiskopie. " 
+"Ich verzichte auf die Übermittlung meiner Personalausweiskopie, da \
+ich Ihre Antwort postalisch an meine ladungfähige Anschrift erwarte. \
+Sollten Sie mit dieser Verfahrensweise nicht einverstanden sein, teilen \
+Sie mir dies bitte mit. Sie erhalten dann eine geschwärzte Personalausweiskopie." 
 + crlf + crlf + crlf +
 "Mit freundlichen Grüßen" + crlf
   
@@ -109,10 +115,8 @@ verständlich sind."  + crlf + crlf +
 + crlf + 
 "Bis zu Ihrer Antwort widerspreche ich der Löschung über mich \
 gesammelter Daten." + crlf + crlf + 
-"Ich verzichte auf die Übermittlung meiner Personalausweiskopie, da \
-ich Ihre Antwort postalisch an meine ladungfähige Anschrift erwarte. \
-Sollten Sie mit dieser Verfahrensweise nicht einverstanden sein, teilen \
-Sie mir dies bitte mit. Sie erhalten dann eine geschwärzte Personalausweiskopie." 
+"Anbei übersende ich Ihnen eine geschwärzte Personalausweiskopie, \
+sie enthält alle für Sie notwendigen Informationen zwecks Identitätsbestätigung." 
 + crlf + crlf + crlf +
 "Mit freundlichen Grüßen" + crlf
 ];
