@@ -53,7 +53,7 @@ function generateLetter(receiver, cnt) {
 	doc.setFontSize(8);
 	doc.text(25, 27, lines_send_back_to);
 
-	doc.setFontSize(10);
+	doc.setFontSize(11);
 	var now = new Date();
 	var birthdate = "Geboren am " + addr.birthdate + ", in " + addr.birthplace;
 	var sender = [addr.name, addr.street, addr.zipcode + " " + addr.city, birthdate].join(crlf);
@@ -89,9 +89,7 @@ function generateLetter(receiver, cnt) {
 
 	var txt = 'Betreff: Auskunft über die über mich gespeicherten Daten' + crlf  + crlf + crlf + body + crlf
 			+ crlf + addr.name + attachment;
-	doc.setFontSize(13);
 	var lines = doc.splitTextToSize(txt, 155)
-	doc.setFontSize(10);
 	doc.text(25, 95.46, lines)
 
 	/*
