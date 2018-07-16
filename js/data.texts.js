@@ -110,7 +110,7 @@ verständlich sind."  + crlf + crlf +
 "Bis zu Ihrer Antwort widerspreche ich der Löschung über mich \
 gesammelter Daten." + crlf + crlf + 
 "Ich verzichte auf die Übermittlung meiner Personalausweiskopie, da \
-ich Ihre Antwort postalisch an meine ladungfähige Anschrift erwarte.\
+ich Ihre Antwort postalisch an meine ladungfähige Anschrift erwarte. \
 Sollten Sie mit dieser Verfahrensweise nicht einverstanden sein, teilen \
 Sie mir dies bitte mit. Sie erhalten dann eine geschwärzte Personalausweiskopie." 
 + crlf + crlf + crlf +
