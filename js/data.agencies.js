@@ -11,7 +11,7 @@ var agencies = {
 		, law: "§ 35 Bundesdatenschutzgesetz (BDSG-neu) ff. Art. 17 DSGVO"
 		, mail: "datenschutz@schufa.de"
 		, www: "https://www.schufa.de/de/datenschutz-dsgvo/"
-		, text: 4
+		, text: 3
 		, desc: "Auskunftei: SCHUFA"
 	},
 	"Bürgel": {
@@ -26,7 +26,7 @@ var agencies = {
 		, law: "§ 35 Bundesdatenschutzgesetz (BDSG-neu) ff. Art. 17 DSGVO"
 		, mail: "datenschutz.de@crif.com"
 		, www: "https://www.crifbuergel.de/"
-		, text: 4
+		, text: 3
 		, desc: "Auskunftei: Bürgel"
 	},
 	"infoscore": {
@@ -41,7 +41,7 @@ var agencies = {
 		, law: "§ 35 Bundesdatenschutzgesetz (BDSG-neu) ff. Art. 17 DSGVO"
 		, mail: "datenschutz.de@crif.com"
 		, www: "http://www.arvato-infoscore.de/verbraucher/selbstauskunft/"
-		, text: 4
+		, text: 3
 		, desc: "Auskunftei: infoscore"
 	}
 };
