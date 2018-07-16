@@ -50,7 +50,7 @@ function generateLetter(receiver, cnt) {
 	var send_back_to = [addr.name, addr.street, addr.zipcode + " " + addr.city].join(', ');
 	var lines_send_back_to = doc.splitTextToSize(send_back_to, 80);
 
-	doc.setFontSize(9);
+	doc.setFontSize(8);
 	doc.text(25, 27, lines_send_back_to);
 
 	doc.setFontSize(10);
@@ -87,7 +87,7 @@ function generateLetter(receiver, cnt) {
 	if (receiver.text === 1 || receiver.text === 2) 
 		attachment = crlf + crlf + crlf + crlf + "Anhang: Personalausweiskopie";
 
-	var txt = 'Betreff: Auskunft über meine über mich gespeicherten Daten' + crlf  + crlf + crlf + body + crlf
+	var txt = 'Betreff: Auskunft über die über mich gespeicherten Daten' + crlf  + crlf + crlf + body + crlf
 			+ crlf + addr.name + attachment;
 	var lines = doc.splitTextToSize(txt, 155)
 	doc.text(25, 95.46, lines)
