@@ -89,7 +89,9 @@ function generateLetter(receiver, cnt) {
 
 	var txt = 'Betreff: Auskunft über die über mich gespeicherten Daten' + crlf  + crlf + crlf + body + crlf
 			+ crlf + addr.name + attachment;
+	doc.setFontSize(13);
 	var lines = doc.splitTextToSize(txt, 155)
+	doc.setFontSize(10);
 	doc.text(25, 95.46, lines)
 
 	/*
